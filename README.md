@@ -1,6 +1,6 @@
 # QCode - 强大的 Claude Code 代理服务
 
-![QCode Logo](assets/qcode-logo.png)
+![QCode Logo](logo.png)
 
 **解锁 Claude Code 的无限可能**
 
