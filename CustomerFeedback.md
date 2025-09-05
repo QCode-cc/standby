@@ -8,3 +8,6 @@
 ## Case 2
 <img width="1584" height="1055" alt="521756881161_ pic_hd" src="https://github.com/user-attachments/assets/65c4e8fe-16ff-4b7a-be02-53abc84ca960" />
 
+## Case 3
+![861757045652_ pic](https://github.com/user-attachments/assets/2b09a499-9057-4a35-afea-6a6aa8952a2d)
+
